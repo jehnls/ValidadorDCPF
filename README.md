@@ -1,5 +1,5 @@
 # ValidadorDCPF
-Crie um programa para validar CPF (o usuário informa os onze dígitos do documento
+Crie um programa para validar CPF (o usuário informa os onze dígitos do documento <br>
 e ele informa se o número informado é válido ou não). Um CPF é composto de 11
 dígitos, em que os dois últimos são os dígitos verificadores. Para ser válido, o primeiro
 e o segundo dígitos do CPF informado devem ser iguais a determinados valores, como
